@@ -1,9 +1,9 @@
 const cacheName = "MorningTea-MorningTeaStudiFirstClicker-1.0";
 const contentToCache = [
     "Build/WebGlBuild.loader.js",
-    "Build/WebGlBuild.framework.js.gz",
-    "Build/WebGlBuild.data.gz",
-    "Build/WebGlBuild.wasm.gz",
+    "Build/WebGlBuild.framework.js",
+    "Build/WebGlBuild.data",
+    "Build/WebGlBuild.wasm",
     "TemplateData/style.css"
 
 ];
